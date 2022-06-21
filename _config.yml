@@ -39,3 +39,5 @@ jobs:
        build_dir: _site/
       env:
        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+theme: jekyll-theme-architect
